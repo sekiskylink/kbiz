@@ -1,0 +1,135 @@
+Toyota,Allex,2001-2006
+Toyota,Allion,2001-present
+Toyota,Alphard,2002-present
+Toyota,Altezza,1998-2005
+Toyota,Aristo,1991-2005
+Toyota,Aurion,2006-present
+Toyota,Auris,2007-present
+Toyota,Avalon,1995-present
+Toyota,Avanza,2003-present
+Toyota,Avensis,1998-present
+Toyota,Aygo,2005-present
+Toyota,Belta,2006-present
+Toyota,Brevis,2001-2007
+Toyota,Caldina,1992-2007
+Toyota,Camry,1983-present
+Toyota,Camry Solara,1999-2008
+Toyota,Carina,1970-2000
+Toyota,Carina E,1992-1998
+Toyota,Carina ED,1985-1998
+Toyota,Cavalier,1995-2000
+Toyota,Celica,1970-2006
+Toyota,Celsior,1989-2005
+Toyota,Century,1967-present
+Toyota,Chaser,1977-2000
+Toyota,Classic,1996-1996
+Toyota,Coaster,1969-present
+Toyota,Condor,1977-present
+Toyota,Comfort,1988-present
+Toyota,Corsa,1978-1999
+Toyota,Corolla Sprinter,1966-present
+Toyota,Corolla Axio,2006-present
+Toyota,Corolla Fielder,2000-present
+Toyota,Corolla Rumion,2007-present
+Toyota,Corolla Spacio,1997-2005
+Toyota,Corolla Verso,1997-2009
+Toyota,Corona,1957-2000
+Toyota,Corona EXiV,1989-1998
+Toyota,Corona Mark II,1968-2004
+Toyota,Cresta,1980-2001
+Toyota,Crown,1955-present
+Toyota,Crown Majesta,1991-present
+Toyota,Curren,1994-1998
+Toyota,Cynos,1991-1999
+Toyota,Duet,1997-2004
+Toyota,Dyna,1959-present
+Toyota,Echo,2000-2005
+Toyota,eCom,1998-1998
+Toyota,Estima,1990-present
+Toyota,Etios,2010-present
+Toyota,FJ Cruiser,2006-present
+Toyota,Fortuner,2005-present
+Toyota,Fun Cargo,2001-2004
+Toyota,Gaia,1998-2004
+Toyota,Grand Hiace,1999-2002
+Toyota,Granvia,1995-present
+Toyota,Harrier,1998-2005
+Toyota,Highlander,2001-present
+Toyota,Hilux,1968-present
+Toyota,Hilux Surf,1984-present
+Toyota,HiClass
+Toyota,Hiace,1967-present
+Toyota,Innova,2003-present
+Toyota,Ipsum,1996-2001
+Toyota,iQ,2008-present
+Toyota,Isis,2004-present
+Toyota,ist,2002-present
+#Toyota,Kijang,1977-present
+Toyota,Kingdom
+Toyota,Kluger,2001-present
+Toyota,Land Cruiser,1954-present
+Toyota,Land Cruiser Prado,1984-present
+Toyota,LiteAce,1970-present
+Toyota,Mark II,1968-2004
+Toyota,Mark II Blit,2002-2007
+Toyota,Mark X,2004-present
+Toyota,Mark X ZiO,2007-present
+Toyota,Matrix,2003-present
+Toyota,MiniAce
+Toyota,MR2/MR-S,1984-2005
+Toyota,Nadia
+Toyota,Noah,2001-present
+Toyota,Opa,2000-2005
+Toyota,Origin,2000-2000
+Toyota,Paseo,1991-1999
+Toyota,Passo,2004-present
+Toyota,Picnic,1997-present
+Toyota,Platz,1999-2005
+Toyota,Porte,2004-present
+Toyota,Premio,2001-present
+Toyota,Prius,1997-present
+Toyota,Probox,2002-present
+Toyota,Progres,1998-2007
+Toyota,Pronard,2002-2004
+Toyota,Qualis,1977-present
+Toyota,Ractis,2005-present
+Toyota,Raum,1997-present
+Toyota,RAV4,1994-present
+Toyota,RAV4 EV,2002-2002
+Toyota,Regius,1997-present
+#Toyota,Reiz,2004-present
+Toyota,Revo,1998-2004
+Toyota,Rush,2006-present
+Toyota,Sera,1990-1995
+Toyota,Sequoia,2000-present
+Toyota,Sienna,1998-present
+Toyota,Sienta,2003-present
+Toyota,Soarer,1981-2005
+Toyota,Sprinter Marino,1991-1998
+Toyota,Starlet,1973-1999
+Toyota,Succeed,2002-present
+Toyota,Supra,1979-2002
+Toyota,Tamaraw FX,1977-present
+Toyota,Tarago,1983-present
+Toyota,Tazz,1996-2006
+Toyota,Tercel,1978-1999
+Toyota,TownAce,1983-present
+Toyota,ToyoAce,1959-present
+Toyota,Tundra,1999-present
+Toyota,Urban Cruiser,2009-present
+Toyota,Vanguard,2008-present
+Toyota,Venza,2008-present
+Toyota,Verossa,2001-2003
+Toyota,Verso,2009-present
+Toyota,Vios,2003-present
+Toyota,Vista,1983-2003
+Toyota,Vitz,1999-present
+Toyota,VM180 Zagato,2001-2001
+Toyota,Voltz,2002-2004
+Toyota,Voxy,2001-present
+Toyota,WiLL,2001-2005
+Toyota,Windom,1989-2007
+Toyota,WISH,2003-present
+Toyota,Yaris,1999-present
+Toyota,Yaris,2000-2004
+Toyota,Zelas,2010-present

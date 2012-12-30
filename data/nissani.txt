@@ -1,0 +1,92 @@
+Nissan,100NX,1991-1996
+Nissan,180SX,1989-1998
+Nissan,200SX,1977-2002
+Nissan,200SX,1995-1998
+Nissan,240SX,1989-1998
+Nissan,300ZX Z32,1990-1999
+Nissan,350Z Z33,2003-2008
+Nissan,370Z Z34,2009-present
+Nissan,Almera,1995-2006
+Nissan,Altima,1993-present
+Nissan,Armada,2004-present
+Nissan,Atlas,1982-present
+Nissan,Avenir,1990-2003
+Nissan,Bassara,1999-2003
+Nissan,Bluebird,1957-present
+Nissan,Bluebird U13,1991-1997
+Nissan,Bluebird U14,1996-2001
+Nissan,Bluebird Sylphy,2000-present
+Nissan,Cedric/Gloria,1960-2004
+Nissan,Cedric Y31,1987-present
+Nissan,Cefiro,1988-2003
+Nissan,Cima,2010-2012
+Nissan,Clipper,2007-present
+Nissan,Clipper Rio,2007-2011
+Nissan,Crew,1993-2009
+Nissan,Cube,1998-present
+Nissan,Elgrand,1998-present
+Nissan,Frontier,1998-2012
+Nissan,Fuga,2004-present
+Nissan,GT-R,2008-present
+Nissan,Hardbody Truck,1986-1997
+Nissan,Homy,1965-1997
+Nissan,Hypermini,1999-2001
+Nissan,Interstar,1999-present
+Nissan,Juke,2010-present
+Nissan,Kix,2008-2012
+Nissan,Kubistar,1997-2008
+Nissan,Lafesta,2004-present
+Nissan,Largo,1988-1998
+Nissan,Latio,2007-present
+Nissan,Laurel,1968-2002
+Nissan,Leaf,2009-present
+Nissan,Leopard,1980-1999
+Nissan,Maxima,1981-present
+Nissan,Multi,1984-present
+Nissan,Murano,2003-present
+Nissan,Micra,1982-present
+Nissan,Moco,2001-present
+Nissan,Navara,1986-present
+Nissan,Note,2005-present
+Nissan,NV,2011-present
+Nissan,NV200,2009-present
+Nissan,NV400,2010-present
+Nissan,NX,1991-1996
+Nissan,Otti,2005-present
+Nissan,Patrol/Safari,1950-present
+Nissan,Pathfinder,1985-present
+Nissan,Pino,2007-2010
+Nissan,Pixo,2009-present
+Nissan,Platina,2000-present
+Nissan,Prairie,1981-present
+Nissan,Presea R11,1994-1996
+Nissan,President,1965-2010
+Nissan,Primera,1990-2008
+Nissan,Pulsar,1978-present
+Nissan,Qashqai,2007-present
+Nissan,R391,1999-1999
+Nissan,Rasheen,1994-2000
+Nissan,R'nessa,1997-2001
+Nissan,Rogue,2007-present
+Nissan,Roox,2009-present
+Nissan,Silvia/180SX/200SX/240SX,1974-2002
+Nissan,Skyline,1957-present
+Nissan,Skyline GT-R,1989-2002
+Nissan,Stagea,1996-2007
+Nissan,Sunny,1965-present
+Nissan,T12 / T72,1986-1990
+Nissan,Teana,2003-present
+Nissan,Terrano,1986-present
+Nissan,Terrano II,1993-2006
+Nissan,Titan,2004-present
+Nissan,Urvan,1986-present
+Nissan,Van C22,1981-present
+Nissan,Wingroad,1994-2005
+Nissan,Xterra,2000-2012
+Nissan,X-Trail,2001-present
+Nissan,Terranaut,2006-2006
+Nissan,Versa,2007-present
+Nissan,Winner,1995-2007
+Nissan,Qashqai,2008-2008
+Nissan,Murano,2009-2009
+Nissan,Juke,2010-2010
